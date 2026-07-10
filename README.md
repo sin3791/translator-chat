@@ -71,10 +71,6 @@ Korean-Japanese Translation Chat Service
 
 - Local Server
 
-#### Testing
-
-- Hamachi
-
 #### Deployment
 
 - AWS (Planned)
