@@ -1,5 +1,5 @@
 # Translator Chat
-
+11
 Korean-Japanese Translation Chat Service
 
 ## 프로젝트 소개
@@ -70,6 +70,10 @@ Korean-Japanese Translation Chat Service
 #### Development
 
 - Local Server
+
+#### Testing
+
+- Hamachi
 
 #### Deployment
 
